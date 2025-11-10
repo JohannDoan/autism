@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Synced]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Synced</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Mon, 10 Nov 2025 18:36:01 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Mon, 10 Nov 2025 18:35:53 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Rozkład na ułamki proste]]></title><description><![CDATA[<img alt="Drawing 2025-11-10 14.41.46.excalidraw.png" src="drawing-2025-11-10-14.41.46.excalidraw.png" target="_self">Każdy z tych przypadków rozwiązuje się tak samo:<br>
+Należy wymnożyć obie strony równania przez mianownik<a data-footref="1" href="#fn-1-bb0a4dc92d100f63" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a> funkcji F(s), następnie za 's' należy podstawić kolejne bieguny<a data-footref="2" href="#fn-2-bb0a4dc92d100f63" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a> mianownika. W efekcie dostaniemy układ równań, z którego należy wyliczyć stałe A, B, C, D, itd.W przypadku (3) trzeba dodatkowo podstawić biegun funkcji Przykład: <br>Mianownik funkcji wymiernej to jest to, co siedzi pod kreską ułamkową.<a href="#fnref-1-bb0a4dc92d100f63" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>Biegun (inaczej: pierwiastek) to miejsce zerowe funkcji.<a href="#fnref-2-bb0a4dc92d100f63" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+]]></description><link>rozkład-na-ułamki-proste.html</link><guid isPermaLink="false">Rozkład na ułamki proste.md</guid><pubDate>Mon, 10 Nov 2025 18:03:36 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[PA - Mindmap]]></title><description><![CDATA[ Jednorodność: Liniowość: Podobieństwo: Twierdzenie o przesunięciu oryginału i transformaty: Twierdzenie o opóźnieniu: Twierdzenie o wyprzedzeniu: Twierdzenie o tłumieniu: Uwaga:
+Odwrotna transformata Laplace'a posiada te same własności, co transformata Laplace'a!
+Transformata pochodnej 1-go rzędu:
+Transformata pochodnej 2-go rzędu:
+Transformata całki Proporcjonalny:
+Całkujący idealny:
+Całkujący rzeczywisty:
+Różniczkujący idealny:
+Różniczkujący rzeczywisty:
+Inercyjny 1-go rzędu:
+Inercyjny 2-go rzędu:
+Oscylacyjny 2-go rzędu:
+Opóźniający: Elektryczny:
+Hydrauliczny:
+Mechaniczny:
+3 ogólne przypadki:
+<a data-href="Drawing 2025-11-10 14.41.46.excalidraw" href="excalidraw/drawing-2025-11-10-14.41.46.excalidraw.html" class="internal-link" target="_self" rel="noopener nofollow">Drawing 2025-11-10 14.41.46.excalidraw</a>Transmitancja operatorowa układu automatyki jest jego modelem matematycznym.Funkcja Heaviside'a:<br><img alt="Drawing 2025-11-10 14.41.46.excalidraw.png" src="drawing-2025-11-10-14.41.46.excalidraw.png" target="_self">Każdy z tych przypadków rozwiązuje się tak samo:<br>
+Należy wymnożyć obie strony równania przez mianownik<a data-footref="1" href="#fn-1-c52a922b6b607fe0" class="footnote-link" target="_self" rel="noopener nofollow">[1]</a> funkcji F(s), następnie za 's' należy podstawić kolejne bieguny<a data-footref="2" href="#fn-2-c52a922b6b607fe0" class="footnote-link" target="_self" rel="noopener nofollow">[2]</a> mianownika. W efekcie dostaniemy układ równań, z którego należy wyliczyć stałe A, B, C, D, itd.W przypadku (3) trzeba dodatkowo podstawić biegun funkcji Przykład: <br>Mianownik funkcji wymiernej to jest to, co siedzi pod kreską ułamkową.<a href="#fnref-1-c52a922b6b607fe0" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+<br>Biegun (inaczej: pierwiastek) to miejsce zerowe funkcji.<a href="#fnref-2-c52a922b6b607fe0" class="footnote-backref footnote-link" target="_self" rel="noopener nofollow">↩︎</a>
+Rozkład na ułamki prosteTransformacja Laplace'a stosowana jest głównie do rozwiązywania równań różniczkowych, którymi opisany jest model matematyczny jakiegoś układu automatyki.Jest to bardzo przydatne narzędzie, gdyż pozwala na rozwiązywanie pewnego rodzaju R. r. zwykłą algebrą (normalnie trzeba by było całkować) oraz bez liczenia stałych całkowania (jeżeli znamy warunki graniczne, czyli początkowe).]]></description><link>pa-mindmap.html</link><guid isPermaLink="false">PA - Mindmap.canvas</guid><pubDate>Mon, 10 Nov 2025 17:42:15 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Drawing 2025-11-10 14.41.46]]></title><description><![CDATA[<img src="drawing-2025-11-10-14.41.46.excalidraw.png" target="_self">]]></description><link>drawing-2025-11-10-14.41.46.excalidraw.html</link><guid isPermaLink="false">Drawing 2025-11-10 14.41.46.excalidraw.png</guid><pubDate>Mon, 10 Nov 2025 14:32:23 GMT</pubDate><enclosure url="." length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;.&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[<img alt="ApesTogetherStrong.png" src="apestogetherstrong.png" target="_self">Oprogramowanie:
+<br><a data-href="MATLAB + Simulink" href="other/software/matlab-+-simulink.html" class="internal-link" target="_self" rel="noopener nofollow">MATLAB + Simulink</a>
+<br><a data-href="AutoCAD + Inventor" href="other/software/autocad-+-inventor.html" class="internal-link" target="_self" rel="noopener nofollow">AutoCAD + Inventor</a>
+<br><a data-href="Overleaf" href="other/software/overleaf.html" class="internal-link" target="_self" rel="noopener nofollow">Overleaf</a>
+<br>CRI AGH: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://cri.agh.edu.pl/oprogramowanie" target="_self">https://cri.agh.edu.pl/oprogramowanie</a>
+Przedmioty:
+<br><a data-href="Wytrzymałość materiałów" href="uni/wytrzymałość-materiałów.html" class="internal-link" target="_self" rel="noopener nofollow">Wytrzymałość materiałów</a>
+<br><a data-href="Metody numeryczne i statystyka" href="uni/metody-numeryczne-i-statystyka.html" class="internal-link" target="_self" rel="noopener nofollow">Metody numeryczne i statystyka</a>
+<br><a data-href="Podstawy automatyki" href="uni/podstawy-automatyki.html" class="internal-link" target="_self" rel="noopener nofollow">Podstawy automatyki</a>
+<br><a data-href="Technologie obróbki metali i tworzyw sztucznych" href="uni/technologie-obróbki-metali-i-tworzyw-sztucznych.html" class="internal-link" target="_self" rel="noopener nofollow">Technologie obróbki metali i tworzyw sztucznych</a>
+<br><a data-href="Zapis konstrukcji" href="uni/zapis-konstrukcji.html" class="internal-link" target="_self" rel="noopener nofollow">Zapis konstrukcji</a>
+<br><a data-href="Techniki wytwarzania" href="uni/techniki-wytwarzania.html" class="internal-link" target="_self" rel="noopener nofollow">Techniki wytwarzania</a>
+<br><a data-href="Mechanika 2" href="uni/mechanika-2.html" class="internal-link" target="_self" rel="noopener nofollow">Mechanika 2</a>
+Materiały:
+<br>Literatura: <a rel="noopener nofollow" class="external-link is-unresolved" title="https://app.box.com/s/adory7c5rmm2oy077poogoq5kb8urnsk" href="https://app.box.com/s/adory7c5rmm2oy077poogoq5kb8urnsk" target="_self">https://app.box.com/s/adory7c5rmm2oy077poogoq5kb8urnsk</a>
+<br>Sylabus: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://sylabusy.agh.edu.pl/pl/1/2/20/1/4/5/18#nav-tab-info" target="_self">https://sylabusy.agh.edu.pl/pl/1/2/20/1/4/5/18#nav-tab-info</a>
+<br>Scopus: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://bg.agh.edu.pl/zasoby/e-zasoby/scopus" target="_self">https://bg.agh.edu.pl/zasoby/e-zasoby/scopus</a>
+<br>SkOs: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://skos.agh.edu.pl/" target="_self">https://skos.agh.edu.pl/</a>
+<br>Harmonogram roku akademickiego: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.agh.edu.pl/studenci/harmonogram-roku-akademickiego#c403" target="_self">https://www.agh.edu.pl/studenci/harmonogram-roku-akademickiego#c403</a>
+Uporządkowana baza (dysk):
+]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Sun, 09 Nov 2025 10:25:58 GMT</pubDate><enclosure url="apestogetherstrong.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;apestogetherstrong.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[ApesTogetherStrong]]></title><description><![CDATA[<img src="apestogetherstrong.png" target="_self">]]></description><link>apestogetherstrong.html</link><guid isPermaLink="false">ApesTogetherStrong.png</guid><pubDate>Fri, 07 Nov 2025 18:23:04 GMT</pubDate><enclosure url="apestogetherstrong.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;apestogetherstrong.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Zapis konstrukcji]]></title><description><![CDATA[W: B2, 100 lub 140 (Dudek Rafał).
+ĆWP (Grupa 6): B2, 323 (Władzielczyk Krzysztof).
+Konsultacje:
+B2, 14,
+Pn. 12:30 - 14:00 (Może nie przyjść),
+Śr. 13:30 - 14:30 (Na pewno go nie będzie),
+Cz. 13:30 - 16:40 (Nie pytać o poprawione rysunki, bo się wkurwia. Najlepiej mieć konsultacje po przedstawicielu płci żeńskiej).My desk: Rightmost, 2nd in column (counting from the whiteboard).Uwaga Trzeba uzyskać ocenę pozytywną ze wszystkich kartkówek oraz arkuszy kontrolnych/rysunkowych.
+Wymagania:
+Dla wykładu:
+Student, który nie był na 70% wykładów i nie posiada własnoręcznie prowadzonych notatek zawierających&nbsp;treść wykładu, na ostatnich zajęciach pisze na ćwiczeniach projektowych kolokwium z wiedzy wykładowej. (tak jest napisane w programie ćwiczeń)
+Dla projektu:&nbsp; Uzyskanie pozytywnych ocen ze wszystkich poszczególnych: arkuszy rysunkowych, arkuszy kontrolnych oraz kolokwiów.
+Odrobienie nieobecności na zajęciach (dopuszczalne są 2 nieobecności).&nbsp;
+Kompletne notatki wykładowe i projektowe.
+Studentowi przysługują 2 terminy poprawkowe (w trakcie trwania sesji zasadniczej), na których może poprawiać 1 zaległą prace kontrolną lub kolokwium i może donieść 1 zaległy rysunek (nie dotyczy prac wydanych do poprawy). Informacje: Oprogramowanie: <a data-href="AutoCAD + Inventor" href="other/software/autocad-+-inventor.html" class="internal-link" target="_self" rel="noopener nofollow">AutoCAD + Inventor</a>/Inne narzędzia CAD
+<br>Kurs na UPEL: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://upel.agh.edu.pl/course/view.php?id=9997" target="_self">https://upel.agh.edu.pl/course/view.php?id=9997</a>
+Polecane podręczniki:
+T. Dobrzański - Rysunek techniczny maszynowy (polecane przez wszystkich),
+K. Sujecki, J. Burkiewicz - Zapis konstrukcji i grafika inżynierska (polecane przez wykładowcę). Grupa Władzielczyka: można wykorzystywać Inventor/AutoCAD i inne programy do robienia rysunków technicznych, ale arkusze kontrolne są robione wyłącznie na kartkach (arkusze kontrolne to rysunkowy ekwiwalent kolokwiów,).Trzeba się samemu nauczyć programu Inventor, z którego będziemy korzystać na zajęciach od połowy semestru. Wykłady kończą się 21/11.Metodyka robienia rysunków:
+Przed rysowaniem należy zrobić jak najwięcej miejsca na biurku, aby przypadkowo nie wygiąć kartki przy rysowaniu.
+Sprawdzić, który format należy wykorzystać i w jakiej konfiguracji (A4 - pionowy, A3 - poziomy/pionowy).
+Zrobić obramowanie, tabelkę i ją wypełnić.
+Narysować szkic na osobnej kartce (np. w zeszycie) i sprawdzić jakie są wymiary, jaką podziałkę wykorzystać, jakie konstrukcje geometryczne występują w rysunku (odnieść się do rozdziału 3 z Dobrzańskiego), jak wycentrować rysunek oraz jak go zwymiarować.
+Cały rysunek robi się ołówkiem cienkim, dopiero na koniec się pogrubia zarys ołówkiem grubym.
+Format A4 jest zawsze formatem pionowym (tzn. dłuższy bok kartki jest zawsze zwrócony do góry), natomiast A3 jest zarówno pionowy, jak i poziomy.Grubość linii:
+Gr. linii 2:
+Linia BARDZO GRUBA: 1.0 mm.
+Linia gruba: 0.5 mm.
+Linia cienka: 0.18 mm.
+Gr. linii 3:
+Linia BARDZO GRUBA: 1.4 mm.
+Linia gruba: 0.7 mm.
+Linia cienka: 0.25 mm.
+Oś symetrii: linia punktowa cienka. Linie punktowe, wyznaczające oś symetrii przedmiotu powinny wystawać 3 mm poza zarysem przedmiotu. Dla Kół o średnicach &lt;12 mm można zastąpić linię punktową linią ciągłą.Odległość między kreskami (linia kreskowa) oraz odległość między kreską a punktem (linia punktowa): dla linii cienkiej: 1 mm (czterokrotna grubość linii); dla linii grubej: co najmniej 2 mm.
+Kropki w liniach punktowych to bardzo krótkie kreski, o długości &lt; 3x grubość linii (Dla cienkich: 0.75 mm, dla grubych: 2.1 mm).Obramowanie: 5 mm, linia gruba.Kreskowanie przekroju przedmiotu: Linie cienkie, pod kątem 45° do podstawy, odległość między kreskami: od 0.5 mm do 5 mm (w zależności od pola kreskowanego przedmiotu). <br><img alt="TabliczkaRysunkowaWzór.png" src="tabliczkarysunkowawzór.png" target="_self">Tabliczka rysunkowa znajduje się zawsze w dolnym, prawym rogu formatu.Obramowanie oraz rubryki tabelki to linie grube, ale linie oddzielające wiersze i kolumny poszczególnych rubryk to linie cienkie. Prawa dolna rubryka, w której napisany jest numer rysunku ma podwójną grubość linii grubej (czyli 1.4 mm dla grupy linii 2). Tabliczkę rysunkową uzupełnia się pismem quasi-technicznym, ołówkiem cienkim.Liniaturę robi się cienkim ołówkiem, a litery grubym.Znaki oraz cyfry wymiarowe robi się cienkim ołówkiem oraz powinny się znaleźć 1-1.5 mm nad linią wymiarową. Wysokość pisma liczb i znaków wymiarowych: h=3,5 mm.Minimalna odległość linii wymiarowej od zarysu przedmiotu wynosi 10 mm, natomiast minimalna odległość między dwoma równoległymi liniami wymiarowymi wynosi 7 mm. Każda linia wymiarowa jest zakończona z dwóch stron grotem o długości ≈ wysokości pisma (dla A3 i A4 to 3,5 mm), przy czym ostrza grotu powinny tworzyć kąt 20°. Groty linii wymiarowej: Linia cienka, dobrze naostrzona.Linie pomocnicze powinny wystawać 3 mm poza punktem styku z liniami wymiarowymi.
+Linie odniesienia promienia łuków powinny być prowadzone od środka łuku.Zasady wymiarowania:
+Wymiarujemy od zewnątrz,
+Nie należy zamykać łańcuchów wymiarowych,
+Nie należy podawać dwa razy tego samego wymiaru, albo dodać "()" jeżeli podajemy wymiary gabarytowe,
+Linie wymiarowe (ale nie linie pomocnicze) nie mogą się przecinać (mniejsze wymiary powinny być bliżej zarysu przedmiotu),
+O ile to możliwe, próbujemy wymiarować pod zarysem przedmiotu i po jego prawej stronie,
+Należy podać jak najwięcej wymiarów na rzucie głównym przedmiotu,
+Wystarczy podać wymiary na tylko dwóch rzutach,
+Wymiarujemy względem bazy wymiarowej (najczęściej jest to oś symetrii przedmiotu),
+Nie wymiarujemy wycięcia na tych rzutach, na których ich nie widać,
+Nie wymiarujemy od linii kreskowych,
+Wymiary na jednym rzucie powinny być grupowane.
+To, jaki wybierzemy rzut główny ma znaczenie. Wykorzystanie symboli wymiarowych może zmniejszyć ilość potrzebnych rzutów do jednego.Zasady rzutowania:
+W rzutach prostokątnych, rysowany przedmiot powinien być odwzorowany w koniecznej liczbie rzutów, potrzebnej do jednoznacznego określenia kształtu przedmiotu,
+Zawsze rysujemy rzut główny,
+Po zakończonym rzutowania należy wymazać wszystkie linie pomocnicze wykorzystane przy rzutowaniu.
+]]></description><link>uni/zapis-konstrukcji.html</link><guid isPermaLink="false">UNI/Zapis konstrukcji.md</guid><pubDate>Fri, 07 Nov 2025 14:41:16 GMT</pubDate><enclosure url="tabliczkarysunkowawzór.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tabliczkarysunkowawzór.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Technologie obróbki metali i tworzyw sztucznych]]></title><description><![CDATA[W: B2, 140 (Zagórski Krzysztof: B3, 028).
+ĆWL (Grupa 6): B3, 14 (Dzienniak Damian/Kowalski Łukasz).
+Konsultacje: B4, p.III, 306.Informacje: Polecane podręczniki:
+J. Sińczak - Podstawy procesów przeróbki plastycznej (polecane przez prowadzącego ĆWL). Jest łącznie 13 laboratoriów:
+Wprowadzenie (Kowalski).
+Obróbka powierzchni obrotowych (Dzienniak).
+Obróbka powierzchni płaskich (Dzienniak).
+Obróbka erozyjna, strumień wody (Dzienniak).
+Szlifowanie (Dzienniak).
+Badanie kinematyki materiałów (Dzienniak).
+Kolokwium I (19.11) (Dzienniak).
+Wykrawanie (Kowalski).
+Wytłaczanie (Kowalski).
+Kolokwium II (10.12) (Kowalski).
+Zimnokanałowa forma wtryskowa (Kowalski).
+Uruchomienie wtryskarki (Kowalski).
+Kolokwium III (14.01) (Kowalski).
+Nie ma ocen ze sprawozdań, ale pytania na kolokwium są związane z informacjami zawartymi w sprawozdaniu. Operator maszyny ma nadrzędną wagę w przypadku wpisywania informacji do sprawozdania.Zagadnienia do kolokwium są podawane zajęcia przed, przy czym są związane z tematem sprawozdania. Kolokwia trwają całe zajęcia, składają się głównie z zadań obliczeniowych/rysunkowych. Można poprawić kolokwium pod koniec semestru. Nie ma limitu prób poprawy oceny. Gorsza ocena nie jest brana pod uwagę po poprawie. Nie ma ocen ze sprawozdań, trzeba je tylko zaliczyć.Dzienniak daje jedno sprawozdanie na całą grupę, przy czym sprawozdanie jest robione przez trzy osoby z grupy.Kowalski daje jedno sprawozdanie na całą grupę, przy czym trzy osoby, które najbardziej przyczyniły się do sprawozdania się podpisują i co każde sprawozdanie powinny to być inne osoby. Wymagana jest 100% obecność.W teorii powinno być kolokwium z wiedzy z wykładów, ale nie będziemy je mieć, per Zagórski Krzysztof.]]></description><link>uni/technologie-obróbki-metali-i-tworzyw-sztucznych.html</link><guid isPermaLink="false">UNI/Technologie obróbki metali i tworzyw sztucznych.md</guid><pubDate>Thu, 06 Nov 2025 18:50:48 GMT</pubDate></item><item><title><![CDATA[Mechanika 2]]></title><description><![CDATA[W: B3, 217 (Bednarz Jarosław).
+ĆWA (Grupa 3): D1, 1 (Radecki Rafał/Bednarz Jarosław).Uwaga Można mieć maksymalnie 3 nieobecności nieusprawiedliwione.
+Na termin zerowy egzaminu trzeba mieć ocenę 4.5 lub wyższą z ćwiczeń audytoryjnych oraz ocenę 4.0 lub wyższą z poprzednich ćwiczeń audytoryjnych (Mechanika I).
+Egzamin składa się z części teoretycznej i praktycznej. Zadania do części praktycznej mogą dotyczyć tylko statyki/kinematyki/dynamiki, albo wszystkich trzech. Część teoretyczna to pytania zamknięte na pierwszym terminie i otwarte na pozostałych terminach egzaminu. Jeżeli w pierwszym terminie się zaliczy tylko część teoretyczną/praktyczną, to w drugim terminie pisze się tylko tą część, którą się nie zdało, ale w trzecim terminie trzeba pisać zarówno teorię, jak i praktykę.
+Kolokwia i inne:
+Co dwa tygodnie - kartkówka.
+Dwa kolokwia w ciągu semestru, przy czym jest jedna poprawa oraz ocena po poprawie jest średnią ocen.
+Terminy kolokwiów zaliczeniowych: 06.02.2026; 8:45; B2: 100.
+13.02.2026; 10:00; B2: 100. Terminy egzaminów: 02.02.2026; 10:00; B2: 119.
+06.02.2026; 8:45; B2: 100.
+13.02.2026; 10:00; B2: 100.
+20.02.2026; 10:00; B2: 100. Informacje Połowa zajęć jest z Radeckim, a druga połowa z Bednarzem.
+Polecane podręczniki:
+W. Mieszczerski - Mechanika (polecane przez studentów),
+K.A. Stroud - Matematyka od zera dla inżyniera (polecane przez wykładowcę),
+Z. Engel, J. Giergiel - Mechanika, Cz. 3. Dynamika (polecane przez studentów). 13/10 - Bednarz
+20/10 - Bednarz
+27/10 - 08/12 - Radecki
+15/12 - 26/01 - BednarzJeżeli się uda, to kolokwia będą na ćwiczeniach, ale poprawy będą robione całą grupą.Przewidywane terminy kartkówek:
+20/10 (Bednarz),
+03/11 (Radecki),
+17/11 (Radecki),
+01/12, Kolokwium I (Radecki),
+15/12 (Bednarz),
+12/01 (Bednarz),
+26/01 (Bednarz).Zakres materiału obowiązujący na kolokwium I: wykłady 1-5 (zestawy zadań 1-6).]]></description><link>uni/mechanika-2.html</link><guid isPermaLink="false">UNI/Mechanika 2.md</guid><pubDate>Tue, 04 Nov 2025 15:05:29 GMT</pubDate></item><item><title><![CDATA[Wytrzymałość materiałów]]></title><description><![CDATA[W: B3, 217 (Nalepka Kinga).
+Konsultacje: B2, p.III, 315, Środa, po 9:30.
+ĆWA (Grupa 3): B2, 011 (Nosal Przemysław).
+Konsultacje: B2, p.II, 208, Poniedziałki, 11:00 - 13:00, lub pisać na maila.
+ĆWL (Grupa 6): N/A (Adam Korbel/Sławomir Badura).
+Konsultacje: B2, 206.Pamiętać, aby zostawić kurtkę w szatni, przed ĆWL!Uwaga Można mieć maksymalnie 4 nieobecności nieusprawiedliwione.
+Do zaliczenia trzeba mieć ponad połowę obecności.
+Egzamin składa się z części praktycznej i teoretycznej. Część zadań z części teoretycznej są z T. A. Philpot, Mechanics of materials lub F. P. Beer, Mechanics of materials.
+Wysoka frekfencja na wykładach zwiększa ocenę z egzaminu o pół stopnia, ale tylko jeżeli jest to ocena pozytywna.
+Terminy egzaminów: Nie wiem,
+Dalej nie wiem,
+Wiem! Nie, nie wiem. Informacje: Linki do materiałów:
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://kpem.agh.edu.pl/dydaktyka" target="_self">https://kpem.agh.edu.pl/dydaktyka</a><br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://home.agh.edu.pl/~pnosal/" target="_self">https://home.agh.edu.pl/~pnosal/</a><br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://home.agh.edu.pl/~korbel/" target="_self">https://home.agh.edu.pl/~korbel/</a><br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://home.agh.edu.pl/~sbadura/" target="_self">https://home.agh.edu.pl/~sbadura/</a> Polecane podręczniki:
+A. Bodnar - Wytrzymałość Materiałów (polecane przez studentów),
+S. Wolny - Wytrzymalość Materialów - Cz.IV - Ćwiczenia laboratoryjne (na podstawie tej książki są kolokwia z ĆWL),
+M. E. Niezgodziński - Wytrzymałość materiałów (polecane przez prowadzącego ĆWA),
+M. E. Niezgodziński - Zadania z wytrzymałości materiałów (polecane przez prowadzącego ĆWA).
+<br>Scopus: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://bg.agh.edu.pl/en/library-resources/e-resources/scopus" target="_self">https://bg.agh.edu.pl/en/library-resources/e-resources/scopus</a> ĆWA:
+Na początku każdych zajęć jest kolokwium po 20 min. Oceną końcową z ćwiczeń jest średnia ze wszystkich ocen. W trakcie semestru możliwe są dwie poprawy kolokwium. ĆWL:
+Jest łącznie 6 laboratoriów, przy czym na każdym (oprócz "A") piszemy kolokwium po 20 min, zagadnienia na kolokwium są z książki: S. Wolny - Wytrzymalość Materialów - Cz.IV - Ćwiczenia laboratoryjne (dany rozdział na dane ćwiczenie). Kolokwium można poprawić na konsultacjach lub w sesji poprawkowej. Oceny z kolokwiów są wpisywane do USOS'a. Nieobecność na laboratoriach należy odrobić jak najszybciej z inną grupą (z IME lub Bioinżynierii).Sprawozdania do laboratoriów należy przynieść wydrukowane na zajęcia (oprócz "A") i uzupełniać je podczas zajęć. Sprawozdania można robić w parach. Jeżeli by ktoś nie zdążył oddać w czasie, można to zrobić na konsultacjach. Sprawozdania można oddać z maksymalnie dwutygodniowym opóźnieniem.]]></description><link>uni/wytrzymałość-materiałów.html</link><guid isPermaLink="false">UNI/Wytrzymałość materiałów.md</guid><pubDate>Tue, 04 Nov 2025 14:57:38 GMT</pubDate></item><item><title><![CDATA[Techniki wytwarzania]]></title><description><![CDATA[W: B2, 140 (Machnik Ryszard: B3, 11).
+ĆWA (Grupa 3): B4, 303 (Fatyga Lisa).
+Konsultacje: B3, 12, pisać na maila.Uwaga Kolokwia i inne:
+2 kolokwia w ciągu semestru (zajęcia 4 oraz 7). Wprowadzenie.
+Koksownia.
+Wielki piec.
+Kolokwium I (24.11).
+Stal, odlewanie.
+Aluminium, miedź.
+Kolokwium II (08.01).
+Druk 3D, CNC.
+]]></description><link>uni/techniki-wytwarzania.html</link><guid isPermaLink="false">UNI/Techniki wytwarzania.md</guid><pubDate>Tue, 04 Nov 2025 14:51:15 GMT</pubDate></item><item><title><![CDATA[Podstawy automatyki]]></title><description><![CDATA[W: B2, 100 (N/A).
+ĆWA (Grupa 3): B2, 111 (Wszołek Wiesław).
+Konsultacje: D1, p.I, 116.
+ĆWL (Grupa 6): B4, 123B-LPA (Jarosz-Kozyro Anna).Uwaga Dopuszczalna jest 1 nieobecność nieusprawiedliwiona. Nieobecność na 3 ćwiczeniach skutkuje niezaliczeniem. Kolokwia i inne:
+Dwa kolokwia w ciągu semestru, na poprawy należy umawiać się z prowadzącym ćwiczenia. Dodatkowo, do oceny liczą się także odpowiedzi przy tablicy, ale mają mniejszą wagę. Terminy egzaminów: 05.02.2026; 12:30 - 15:30; B2: 100, 101, 123, 140, B3: 120.
+12.02.2026; 12:30 - 15:30; B2: 100, 101, 123, 140.
+19.02.2026; 12:30 - 15:30; B2: 100, 140. Informacje: Oprogramowanie: LabVIEW, <a data-href="MATLAB + Simulink" href="other/software/matlab-+-simulink.html" class="internal-link" target="_self" rel="noopener nofollow">MATLAB + Simulink</a>.
+Polecane podręczniki:
+D. Holejko, W. Kościelny - Zbiór zadań z&nbsp;podstaw automatyki (polecane przez prowadzącego ĆWA),
+J. Kowal - Podstawy Automatyki - Tom I i II (polecane przez wykładowcę),
+R. C. Dorf, R. H. Bishop - Systemy sterowania automatycznego (polecane przez wykładowcę),
+K.A. Stroud - Matematyka od zera dla inżyniera (polecane przez studenta). Znaleźć salę.]]></description><link>uni/podstawy-automatyki.html</link><guid isPermaLink="false">UNI/Podstawy automatyki.md</guid><pubDate>Tue, 04 Nov 2025 14:50:19 GMT</pubDate></item><item><title><![CDATA[Metody numeryczne i statystyka]]></title><description><![CDATA[W: B3, 120 (Szopa Krystian).
+ĆWA (Grupa 3): D1, 1 (Suder-Dębska Katarzyna).
+Konsultacje: pisać na maila.
+ĆWL (Grupa 6): B2, 218 (Szopa Krystian).
+Konsultacje: B3, 204a, Środa, 11:30.Uwaga: Kolokwia i inne:
+ĆWA: Co każde zajęcia - test - na UPELu - 10 min.:
+5 Pytań zamkniętych (a, b, c, d). Łącznie jest 5 testów, z których można uzyskać 25 pkt. Trzeba mieć co najmniej 12.5 pkt. do zaliczenia.
+ĆWL:
+Kolokwium zaliczeniowe na ostatnich zajęciach (22/01). Informacje: Oprogramowanie: <a data-href="MATLAB + Simulink" href="other/software/matlab-+-simulink.html" class="internal-link" target="_self" rel="noopener nofollow">MATLAB + Simulink</a>.
+<br>Kurs na UPEL: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://upel.agh.edu.pl/course/view.php?id=5059" target="_self">https://upel.agh.edu.pl/course/view.php?id=5059</a>, <a rel="noopener nofollow" class="external-link is-unresolved" href="https://upel.agh.edu.pl/course/view.php?id=4639" target="_self">https://upel.agh.edu.pl/course/view.php?id=4639</a>
+Polecane podręczniki:
+I. Czajka, A. Gołaś - Inżynierskie metody analizy numerycznej i planowanie eksperymentu (polecane przez prowadzącego ĆWA). ĆWA:
+10 min na wejściówkę, 50 min pracy w grupach, ostatnie 30 min zajęć na omówienie wyników.
+Grupy są wybierane na pierwszych zajęciach i się nie zmieniają do końca semestru.
+ĆWL:
+Okazjonalne kartkówki, końcowe kolokwium na zaliczenie. Zajęcia poświęcone głównie na robienie zadań ze skryptu.
+Tematy zajęć:
+Aproksymacja.
+Interpolacja.
+Rozwiązywanie równań nieliniowych.
+Całkowanie numeryczne.
+Rozwiązywanie R. r. stopnia I-go.
+Rozwiązywanie R. r. stopnia II-go.
+Zagadnienia do kolokwium zaliczeniowego (ĆWL):
+Aproksymacja:
+Napisać program podobny jak na zajęciach, aproksymujący funkcją np. logarytmiczną (czyli może być inna funkcja bazowa niż tylko wielomiany).
+Równania nieliniowe:
+Patrz: Rozdział 5, konspekt 3 (Szopa).
+Na kolokwium zaliczeniowym można korzystać ze skryptu I. Czajki.]]></description><link>uni/metody-numeryczne-i-statystyka.html</link><guid isPermaLink="false">UNI/Metody numeryczne i statystyka.md</guid><pubDate>Tue, 04 Nov 2025 14:49:17 GMT</pubDate></item><item><title><![CDATA[AutoCAD + Inventor]]></title><description><![CDATA[FreeCAD/ LibreCAD/ BricsCAD - FOSS alternatives to AutoCAD/InventorAutoCAD commands dictionary (Tłumaczenie komend na polską wersję programu):
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.cadforum.cz/en/command.asp" target="_self">https://www.cadforum.cz/en/command.asp</a>?Applying the diameter symbol to a dimension manually:<br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.youtube.com/watch?v=JiBUE2tfuDM" target="_self">https://www.youtube.com/watch?v=JiBUE2tfuDM</a>
+Go to: Properties -&gt; Text -&gt; Text override, and add this: $$c&lt;&gt; (no need to repeat the dimension value).Show line width in Model space:<br>
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://youtu.be/G_1QWj93DZk?si=veYukq35A8LWYvgi" target="_self">https://youtu.be/G_1QWj93DZk?si=veYukq35A8LWYvgi</a>It's best to apply line width by using layers, e.g. create a new layer (Home -&gt; Layer properties -&gt; New layer) and change its line width value, then, change the layer of the line whose width you wish to change to the layer you created. Create multiple layers for different line widths. The process can be sped up even further by using the Match Properties tool (in the Home tab).Zmiana stylu wymiarowania:
+Narzędzia główne -&gt; Opis -&gt; {druga pozycja od góry} -&gt; Zarządzaj stylem wymiarowania.]]></description><link>other/software/autocad-+-inventor.html</link><guid isPermaLink="false">Other/Software/AutoCAD + Inventor.md</guid><pubDate>Fri, 31 Oct 2025 21:56:35 GMT</pubDate></item><item><title><![CDATA[MATLAB + Simulink]]></title><description><![CDATA[Octave or Scilab - FOSS alternatives to MATLABYou can dock and undock each menu element (To undo layout changes: Home -&gt; Layout -&gt; Default).MATLAB is case-sensitive (A ≠ a)Important!
+MATLAB uses the dot (.) as decimal separator, not the comma (,).
+Decimals are written like this: 5.7, not like this: 5,7.
+Confirm commands by pressing the "Enter" key.
+The results of commands ending with a semicolon (;) won't show up in the command window. You can write multiple commands in the same line, provided that you separate them with a semicolon. The ans variable holds the answer/result of operations for which a variable wasn't defined and changes after each command.Basic arithmetic functions: +, -, *, /, ^. Also, sqrt, which automatically calculates imaginary numbers (try doing sqrt(-1) in MATLAB).Basic commands:
+who - list variables in workspace.
+whos - list variables in workspace, alongside their datatypes and size.
+clear - remove variables from workspace (can be used for singular variables or all of them).
+clc - clear the command window.
+plot - used for plotting graphs.
+help - try using the help command to see what this command does.You'll want to start most scripts with the clear and clc commands, in that order:
+clear all;clc;close allYou can make comments by preceding them with a % sign.Syntax:
+{table_name}=[{row1_element1} {row1_element2}; {row2_element1} {row2_element2}]
+E.g. A=[1 2; 3 4]. You can also use the comma (,) to separate elements in a row, like this:
+A=[1, 2; 3, 4].Difference between table and matrix operations:
+The . is the table operator and is used right before an arithmetic operation, like this:
+C=A.*B, D=C.^B.
+There is not much difference for the + and - operations, but: When doing multiplication (*), the following table operation: C=A.*B will multiply the A and B tables' elements that are in the same row and column, while a matrix operation: C=A*B will follow the matrix multiplication rules. No difference when multiplying by a constant.
+Similarly, when doing exponentiation (^), the following table operation: C=A.^2 will raise each element of the table A to the power of 2, while a matrix operation: C=A^2 will be equivalent to multiplying the A matrix by itself. Other methods of creating arrays (tables):
+a=zeros(3) - creates a 3 by 3 array filled with zeroes.
+b=ones(3) - creates a 3 by 3 array filled with ones.
+c=ones(3)*7 - creates a 3 by 3 array filled with sevens.
+d=ones(3,4) - creates a 3 by 4 array filled with ones.
+e=rand(6) - creates a 6 by 6 array with randomized elements between 0 and 1.
+f=eye(3) - creates an identity matrix (all ones on the diagonal).
+g=magic(5) - creates a magic matrix (sum of all rows, columns and diagonals is the same)
+i=50*rand(3) - creates an array with randomized elements between 0 and 50.
+j=150*rand(3)-50 - creates an array with randomized elements between -50 and 100 (alternatively: j=randi([-50,100], 3)).Matrix transposition: ' (rows become columns), e.g. n=m'.
+<a data-tooltip-position="top" aria-label="https://en.wikipedia.org/wiki/File:Matrix_transpose.gif" rel="noopener nofollow" class="external-link is-unresolved" href="https://en.wikipedia.org/wiki/File:Matrix_transpose.gif" target="_self"></a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matrix_transpose.gif/200px-Matrix_transpose.gif" referrerpolicy="no-referrer" target="_self" class="is-unresolved">
+Matrix inversion: inv(m). If you multiply a matrix by its inverse, you obtain an identity matrix.You can select an array element this way: {array_name}({row},{column}). E.g. element=A(2,3).
+Notice that the first position is the row and the second is the column.
+You can also replace a specific element in the array, e.g. A(2,3)=50.
+By utilizing the "all set elements" operator (:), we can:
+Choose all elements of a row, like this: A(2,:). Understand it like this: A(second row, all elements (columns)).
+Choose all elements of a column, like this: A(:,4). Understand it like this: A(all elements (rows), fourth column).
+Choose all elements of a range of columns/rows, like this: A(3:4,2:4).
+Indexation in MATLAB starts from 1.
+The default step (h) is equal to 1. E.g. x=5:15 will create the vector x=[5,6,7,8,9,10,11,12,13,14,15].
+You can declare a different step value, e.g. x=5:3:15, where 3 is the step value h.Vector arithmetic:
+Choose a specific vector element, e.g. x(4) is the fourth element of the x vector.
+Replace vector element/assign to variable, e.g. x(4)=12, var=x(4).
+Remove vector element, e.g. x(4)=[].
+Choose the last vector element, e.g. x(end).
+Adding an element to the end of the vector, e.g. x(end+1)=17.
+Calculate the length of the vector (number of elements), e.g. k=length(x).
+Choose a range of vector elements, e.g. x(1:5). This way you're de facto choosing a sub-vector from the vector x, i.e. x(4:8) &lt;=&gt; x([4 5 6 7 8]). You can use this to choose any vector elements, e.g. x([2 5 11]) selects elements indexed 2, 5, and 11.
+You can make use of steps to create new vectors from pre-existing ones with a specific pattern, e.g. d=x(1:2:end) creates a vector d that contains every second element of vector x.
+You can concatenate vectors, e.g. z=[x y] and also add values to them, like this:zz=[3 11 21 x(3:8) 4:8 12 y(1:5)]. Mistaking an element's index with its value.
+Chosen index exceeds the number of array elements.
+Using the comma as decimal separator.
+Indexing from zero or negative numbers/non-integers.
+Unpaired parentheses/incorrect parentheses type.
+Forgot to close a loop with end (The IF statement also requires an end).
+M-files are specific to MATLAB. To create a new script, go to: Home -&gt; New (Script), or press CTRL+N.File naming shenanigans:
+File names can't start with a number.
+File names can't contain spaces or dots, also avoid using #, %, $, etc.
+Do not use MATLAB-specific commands (e.g. length, for, while, plot) to name your files.
+Use camelCase for naming files and variables!
+Also use names instead of single-letter variables: Alice, Bob, ...end &lt;=&gt; } in other programming languages.
+Use x=x+1 instead of x++ (as in C).
+There is no built-in do while loop in MATLAB.Usually used when you know how many times the loop will be executed, e.g.:
+clear all
+clc
+close all
+for k=1:10
+x(k)=50-k
+endUsually used when you don't know how many times the loop will be executed, e.g.:
+clear all
+clc
+close all
+count=0
+a=0
+while a&lt;=999
+a=1000*rand(1)
+count=count+1
+endclear all
+clc
+x=rand(1,20)
+for k=1:20
+if x(k) &lt;= 0.3
+x(k)=0;
+elseif x(k) &gt; 0.8
+x(k)=1;
+else
+x(k)=x(k);
+end
+end
+disp(x)clear all
+clc
+A=zeros(10);
+for k=1:10
+for n=1:10
+A(k,n)=k*n;
+end
+end
+disp(A)Understand it like this:
+The internal loop for n=1:10 is executed in its entirety for each time the external loop for k=1:10 gets executed once. In other words, we start with the first row (k=1) and for that row, we multiply it by columns 1 to 10, like this:
+row 1 * column 1, row 1 * column 2, row 1 * column 3, ...
+row 2 * column 1, row 2 * column 2, row 2 * column 3, ...clear all
+clc
+A=zeros(10);
+a=0;
+count=1;
+for k=1:10
+for n=1:10
+A(k,n)=n+a;
+end
+a=n*count;
+count=count+1;
+end
+disp(A)clear all
+clc
+A=zeros(10);
+range=1;
+count=1;
+for k=1:10
+if mod(count,2) == 0 %we want to switch the range of every second row, which happens each time the count is divisible by 2.
+range=2;
+else
+range=1;
+end
+for n=range:2:(range+9)
+if A(k,n) == 0
+A(k,n)=1;
+end
+end
+count=count+1;
+end
+disp(A)clear all;
+close all;
+clc;
+a=input("Podaj współczynnik przy najwyższej potędze: ")
+b=input("Podaj współczynnik przy pierwszej potędze: ")
+c=input("Podaj wyraz wolny: ")
+delta=b^2-4*a*c;
+if delta==0
+x0=(-1*b)/(2*a)
+elseif delta&gt;0
+x1=(-1*b+sqrt(delta))/(2*a)
+x2=(-1*b-sqrt(delta))/(2*a)
+elseif delta&lt;0
+x1=(-1*b+i*sqrt(-1*delta))/(2*a)
+x2=(-1*b-i*sqrt(-1*delta))/(2*a)
+endclear all;
+clc;
+close all;%generating points:
+x=-50:20:70;
+y=10*rand(1,length(x));%making the graph smoother:
+xx=-50:70;%creating the matrices:
+Y=y';
+%1st. deg.:
+X=[ones(length(x),1), x'];
+A=inv(X'*X)*X'*Y;
+w1=A(1)+A(2)*xx;
+%2nd. deg.:
+X=[ones(length(x),1), x', x'.^2];
+A=inv(X'*X)*X'*Y;
+w2=A(1)+A(2)*xx+A(3)*(xx.^2);
+%4th. deg.:
+X=[ones(length(x),1), x', x'.^2, x'.^3, x'.^4];
+A=inv(X'*X)*X'*Y;
+w3=A(1)+A(2)*xx+A(3)*(xx.^2)+A(4)*(xx.^3)+A(5)*(xx.^4);
+%6th. deg.:
+X=[ones(length(x),1), x', x'.^2, x'.^3, x'.^4, x'.^5, x'.^6];
+A=inv(X'*X)*X'*Y;
+w4=A(1)+A(2)*xx+A(3)*(xx.^2)+A(4)*(xx.^3)+A(5)*(xx.^4)+A(6)*(xx.^5)+A(7)*(xx.^6);plot(x,y,"*",xx,w1,"red",xx,w2,"green",xx,w3,"blue",xx,w4,"magenta")
+legend("Węzły aproksymacji", "Aproksymacja funkcją liniową","Aproksymacja wielomianem drugiego stopnia","Aproksymacja wielomianem czwartego stopnia","Aproksymacja wielomianem szóstego stopnia")
+grid minorclear all;
+clc;
+close all;%generating points:
+x=-50:20:70;
+y=10*rand(1,length(x));%making the graph smoother:
+xx=-50:70;%MATLAB functions:
+p=polyfit(x,y,2);
+f=polyval(p,xx);%creating the matrices:
+Y=y';
+%2nd. deg.:
+X=[ones(length(x),1), x', x'.^2];
+A=inv(X'*X)*X'*Y;
+w2=A(1)+A(2)*xx+A(3)*(xx.^2);plot(x,y,"*",xx,w2,"red",xx,f,"--")
+legend("Węzły aproksymacji", "Aproksymacja średniokwadratowa","Aproksymacja funkcjami MATLAB'a")
+grid minorclear all;
+clc;
+close all;%generating points:
+x=125:125:625;
+y=[80, 36.56, 26.34, 24.33, 20.23];%making the graph smoother:
+xx=125:625;%creating the matrices:
+Y=y';
+%Logarithmic, 1st. deg.:
+X=[ones(length(x),1), (log(x))'];
+A=inv(X'*X)*X'*Y;
+w1=A(1)+A(2)*log(xx);
+%Logarithmic, 2nd. deg.:
+X=[ones(length(x),1), (log(x))', (log(x))'.^2];
+A=inv(X'*X)*X'*Y;
+w2=A(1)+A(2)*log(xx)+A(3)*(log(xx).^2);
+%Rational, 1st. deg.:
+X=[ones(length(x),1), (1./x)'];
+A=inv(X'*X)*X'*Y;
+w3=A(1)+A(2)*(1./xx);
+%Rational, 2nd. deg.:
+X=[ones(length(x),1), (1./x)', (1./x)'.^2];
+A=inv(X'*X)*X'*Y;
+w4=A(1)+A(2)*(1./xx)+A(3)*((1./xx).^2);plot(x,y,"*",xx,w1,"red",xx,w2,"green",xx,w3,"blue",xx,w4,"magenta")
+legend("Węzły aproksymacji", "Aproksymacja funkcją logarytmiczną pierwszego stopnia","Aproksymacja funkcją logarytmiczną drugiego stopnia","Aproksymacja funkcją wymierną pierwszego stopnia","Aproksymacja funkcją wymierną drugiego stopnia")
+grid minorclear all;
+clc;
+close all;%generating points:
+x=125:125:625;
+y=[80, 36.56, 26.34, 24.33, 20.23];%making the graph smoother:
+xx=125:625;%creating the matrices:
+Y=y';
+%Logarithmic, 1st. deg.:
+X=[ones(length(x),1), (log(x))'];
+A=inv(X'*X)*X'*Y;
+yy=A(1)+A(2)*log(xx);plot(x,y,"*",xx,yy,"red")
+legend("Węzły aproksymacji", "Aproksymacja funkcją logarytmiczną pierwszego stopnia")
+grid minor%defining the vector step:
+h=125;%calculating errors:
+D=yy(1:h:end)-y
+RMSE=sqrt(sum(D.^2)/length(D))
+R=1-(sum(D.^2)/sum((y-mean(y)).^2));
+disp("R^2 = "); disp(R)Given equation:
+xx=0:0.1:1.5;
+f=xx-cos(xx);
+y=xx;
+g=cos(xx);figure(1)
+plot(xx,f,"red")
+grid minorfigure(2)
+plot(xx,y,"green",xx,g,"blue")
+grid minorclear all;
+close all;
+clc;x(1)=1;
+k=1;while true
+x(k+1)=cos(x(k));
+if abs(x(k+1)-x(k)) &lt; 0.001
+%displaying results:
+x
+k
+h=abs(x(k+1)-x(k))
+break
+else
+k=k+1;
+end
+endclear all;
+close all;
+clc;format short%longx(1)=1;
+k=1;
+a=sin(0.75);while true
+x(k+1)=(a*x(k)+cos(x(k)))/(a+1);
+if abs(x(k+1)-x(k)) &lt; 0.001
+%displaying results:
+x
+k
+h=abs(x(k+1)-x(k))
+break
+else
+k=k+1;
+end
+endclear all;
+close all;
+clc;format longx(1)=1;
+k=1;while true
+h(k)=-1*(x(k)-cos(x(k)))/(1+sin(x(k)));
+x(k+1)=x(k)+h(k);
+if abs(h(k)) &lt; 0.001
+%displaying results:
+x
+k
+precision=h(k)
+break
+else
+k=k+1;
+end
+endclear all;
+close all;
+clc;format longx(1)=0;
+x(2)=1;
+k=2;while true
+h(k)=-1*(x(k)-cos(x(k)))*(x(k)-x(k-1))/((x(k)-cos(x(k)))-(x(k-1)-cos(x(k-1))));
+x(k+1)=x(k)+h(k);
+if abs(h(k)) &lt; 0.001
+%displaying results:
+x
+k
+precision=h(k)
+break
+else
+k=k+1;
+end
+endWORK IN PROGRESSWORK IN PROGRESSWORK IN PROGRESS]]></description><link>other/software/matlab-+-simulink.html</link><guid isPermaLink="false">Other/Software/MATLAB + Simulink.md</guid><pubDate>Fri, 31 Oct 2025 20:52:22 GMT</pubDate><enclosure url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matrix_transpose.gif/200px-Matrix_transpose.gif" length="0" type="image/gif"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Matrix_transpose.gif/200px-Matrix_transpose.gif&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[TabliczkaRysunkowaWzór]]></title><description><![CDATA[<img src="tabliczkarysunkowawzór.png" target="_self">]]></description><link>tabliczkarysunkowawzór.html</link><guid isPermaLink="false">TabliczkaRysunkowaWzór.png</guid><pubDate>Fri, 17 Oct 2025 20:07:24 GMT</pubDate><enclosure url="tabliczkarysunkowawzór.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;tabliczkarysunkowawzór.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Program Zapisu Konstrukcji dla Mechatroniki2025]]></title><link>program-zapisu-konstrukcji-dla-mechatroniki2025.html</link><guid isPermaLink="false">Program Zapisu Konstrukcji dla Mechatroniki2025.pdf</guid><pubDate>Fri, 17 Oct 2025 19:58:47 GMT</pubDate></item><item><title><![CDATA[Laboratoria - Mechatronika 2025-2026]]></title><link>laboratoria-mechatronika-2025-2026.html</link><guid isPermaLink="false">Laboratoria - Mechatronika 2025-2026.pdf</guid><pubDate>Fri, 17 Oct 2025 16:47:18 GMT</pubDate></item><item><title><![CDATA[Overleaf]]></title><description><![CDATA[KDE Kile - FOSS/offline alternative to Overleaf
+<a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.overleaf.com/edu/agh" target="_self">https://www.overleaf.com/edu/agh</a><br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes" target="_self">https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes</a>LaTeX is not a “WYSIWYG” tool, your document is a plain text file interspersed with LaTeX commands used to express the desired (typeset) results. It uses .tex files.<br>TeX Live: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://tug.org/texlive/" target="_self">https://tug.org/texlive/</a><br>Find TeX packages: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.ctan.org/" target="_self">https://www.ctan.org/</a>Make use of the Visual Editor sometimes!Auto compile: ON.
+Compile error handling: Stop on first error.Add these packages to preamble for polish chars:
+\usepackage[T1]{fontenc}
+\usepackage[polish]{babel}
+\usepackage[utf8]{inputenc} Preferable document class:
+\documentclass[12pt, a4paper, onecolumn]{article}Italics: \textit{...}
+Bold: \textbf{...}
+Underline: \underline{...}You can have multiple images in one figure (e.g. side-by-side).<br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.overleaf.com/project/68c07400736bbed0e4331fdd" target="_self">https://www.overleaf.com/project/68c07400736bbed0e4331fdd</a>LaTeX provides two writing modes for typesetting mathematics:
+inline math mode used for writing formulas that are part of a paragraph.
+display math mode used to write expressions that are not part of a text or paragraph and are typeset on separate lines.
+Examples:
+<br>Using built-in functions: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.overleaf.com/project/68c075c25befe4b5d93629d1" target="_self">https://www.overleaf.com/project/68c075c25befe4b5d93629d1</a>
+<br>Using the \usepackage{amsmath}: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.overleaf.com/project/68c0760ad8bca38ce7923df5" target="_self">https://www.overleaf.com/project/68c0760ad8bca38ce7923df5</a>
+Useful links:
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Mathematical_expressions" rel="noopener nofollow" class="external-link is-unresolved" title="Mathematical expressions" href="https://www.overleaf.com/learn/latex/Mathematical_expressions" target="_self">Mathematical expressions</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Subscripts_and_superscripts" rel="noopener nofollow" class="external-link is-unresolved" title="Subscripts and superscripts" href="https://www.overleaf.com/learn/latex/Subscripts_and_superscripts" target="_self">Subscripts and superscripts</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Brackets_and_Parentheses" rel="noopener nofollow" class="external-link is-unresolved" title="Brackets and Parentheses" href="https://www.overleaf.com/learn/latex/Brackets_and_Parentheses" target="_self">Brackets and Parentheses</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Fractions_and_Binomials" rel="noopener nofollow" class="external-link is-unresolved" title="Fractions and Binomials" href="https://www.overleaf.com/learn/latex/Fractions_and_Binomials" target="_self">Fractions and Binomials</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath" rel="noopener nofollow" class="external-link is-unresolved" title="Aligning equations with amsmath" href="https://www.overleaf.com/learn/latex/Aligning_equations_with_amsmath" target="_self">Aligning Equations</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Operators" rel="noopener nofollow" class="external-link is-unresolved" title="Operators" href="https://www.overleaf.com/learn/latex/Operators" target="_self">Operators</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Spacing_in_math_mode" rel="noopener nofollow" class="external-link is-unresolved" title="Spacing in math mode" href="https://www.overleaf.com/learn/latex/Spacing_in_math_mode" target="_self">Spacing in math mode</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits" rel="noopener nofollow" class="external-link is-unresolved" title="Integrals, sums and limits" href="https://www.overleaf.com/learn/latex/Integrals%2C_sums_and_limits" target="_self">Integrals, sums and limits</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Display_style_in_math_mode" rel="noopener nofollow" class="external-link is-unresolved" title="Display style in math mode" href="https://www.overleaf.com/learn/latex/Display_style_in_math_mode" target="_self">Display style in math mode</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols" rel="noopener nofollow" class="external-link is-unresolved" title="List of Greek letters and math symbols" href="https://www.overleaf.com/learn/latex/List_of_Greek_letters_and_math_symbols" target="_self">List of Greek letters and math symbols</a>
+<br><a data-tooltip-position="top" aria-label="https://www.overleaf.com/learn/latex/Mathematical_fonts" rel="noopener nofollow" class="external-link is-unresolved" title="Mathematical fonts" href="https://www.overleaf.com/learn/latex/Mathematical_fonts" target="_self">Mathematical fonts</a>
+<br>New users are advised that multiple \\ or \newlines should not be used to “simulate” paragraphs with larger spacing between them because this can interfere with LaTeX’s typesetting algorithms. The recommended method is to continue using blank lines for creating new paragraphs, without any \\, and load the <a data-tooltip-position="top" aria-label="https://ctan.org/pkg/parskip?lang=en" rel="noopener nofollow" class="external-link is-unresolved" href="https://ctan.org/pkg/parskip?lang=en" target="_self"><code></code> package</a>parskip by adding \usepackage{parskip} to the preamble.Document-structuring commands can depend on the document class being used. By way of example, documents created using the book class can be split into parts, chapters, sections, subsections and so forth but the letter class does not provide (support) any commands to do that.Newline: \\ %equivalent to \newline.<br><a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.overleaf.com/learn/latex/Sections_and_chapters" target="_self">https://www.overleaf.com/learn/latex/Sections_and_chapters</a><br>Example: <a rel="noopener nofollow" class="external-link is-unresolved" href="https://www.overleaf.com/project/68c079ed736bbed0e434c1bc" target="_self">https://www.overleaf.com/project/68c079ed736bbed0e434c1bc</a>\documentclass[12pt, a4paper, onecolumn]{article}
+\title{Example LaTeX document}
+\author{John Doe\thanks{Said author does not exist and is a fictional character.}}
+\date{\today}
+\usepackage[T1]{fontenc} %These are
+\usepackage[polish]{babel} %needed for
+\usepackage[utf8]{inputenc} %Polish characters.
+\usepackage{graphicx} %LaTeX package to import graphics
+\graphicspath{{images/}} %configuring the graphicx package\begin{document}
+\maketitle
+\tableofcontents
+\section{Introduction}
+\begin{abstract}
+This is a simple paragraph at the beginning of the
+document. A brief introduction about the main subject.
+\end{abstract}
+\section*{Unnumbered Section}
+Lorem Ipsum. ĄĘąę
+% This line here is a comment. It will not be typeset in the document.\begin{figure}[h!b]
+\centering
+\includegraphics[width=1\textwidth]{X4_logistics_flowchart.jpg}
+\caption{Enter Caption}
+\label{fig:placeholder}
+\end{figure}You can see figure \ref{fig:placeholder} on page \pageref{fig:placeholder}.\section{Second Section}\begin{itemize} %unordered list
+\item The individual entries are indicated with a black dot, a so-called bullet.
+\item The text in the entries may be of any length.
+\end{itemize}\begin{enumerate} %ordered list
+\item This is the first entry in our list.
+\item The list numbers increase with each entry we add.
+\end{enumerate}\begin{table}
+\centering
+\begin{tabular}{c|ccc|cc}
+\hline
+ff &amp;vdg &amp; gg&amp; &amp; &amp; \\
+&amp; &amp; &amp; &amp; &amp; \\
+&amp; &amp; &amp; &amp; &amp; \\
+&amp; &amp; bb &amp; &amp; &amp; \\
+\hline
+\end{tabular}
+\caption{Caption}
+\label{tab:placeholder}
+\end{table}\end{document}]]></description><link>other/software/overleaf.html</link><guid isPermaLink="false">Other/Software/Overleaf.md</guid><pubDate>Mon, 29 Sep 2025 15:17:29 GMT</pubDate></item></channel></rss>
